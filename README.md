@@ -5,9 +5,8 @@
 ### Programmiersprachen
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5")
-![Markdown](
 ### Statistiken
 ![GitHub Statistik](https://github-readme-stats-one-ruddy-99.vercel.app/api?username=faelixyz&show_icons=true&hide=issues,prs&theme=dark)
-[![GitHub Languages](https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=faelixyz&exclude_repo=faelixyz&show_icons=true&theme=dark)](https://github.com/faelixyz?tab=repositories)
+![GitHub Languages](https://github-readme-stats-one-ruddy-99.vercel.app/api/top-langs/?username=faelixyz&exclude_repo=faelixyz&show_icons=true&theme=dark)](https://github.com/faelixyz?tab=repositories)
 
 [Discord Server](https://dc.voxelgames.de) - [Mailadresse](mailto:hey@faelixyz.de) - [YouTube](https://go.faelixyz.tech/youtube) - [Webseite](https://faelixyz.tech)
